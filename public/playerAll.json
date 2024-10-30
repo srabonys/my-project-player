@@ -1,0 +1,83 @@
+[
+    {
+      "playerId": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/KjJJ7FQ/Shakib-Al-Hasan.webp",
+      "playerType": "All-rounder",
+      "playingStyle" :"Left-Hand-Bat",
+      "biddingPrice": 160
+    },
+    {
+      "playerId": 2,
+      "name": "Mehedi Hasan Miraj",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/xDwZ8yk/Mehedi-Hasan-Miraj.webp",
+      "playerType": "Batesman",
+      "playingStyle" :"Off-spin",
+      "biddingPrice": 120
+    },
+    {
+      "playerId": 3,
+      "name": "Rohit Sharma",
+      "country": "Indian",
+      "image": "https://i.ibb.co.com/54H52kC/Rohit-Sharma.webp",
+      "playerType": "Batsman",
+      "playingStyle" :"Opening-Bat",
+      "biddingPrice": 150
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/rvQSHDZ/Kane-Williamson.webp",
+      "playerType": "Batsman",
+      "playingStyle" :"Shot-Selection",
+      "biddingPrice": 155
+    },
+    {
+      "playerId": 5,
+      "name": "Virat Kohil",
+      "country": "Indian",
+      "image": "https://i.ibb.co.com/YkHWGpt/Virat-Kohil.webp", 
+      "playerType": "Best Batsman",
+      "playingStyle" :"Highly-aggressive",
+      "biddingPrice": 190
+    },
+    {
+      "playerId": 6,
+      "name": "Tom Latham",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/s2zRxPg/Tom-Latham.webp",
+      "playerType": "Batsman",
+      "playingStyle" :"Left-Hand-Bat",
+      "biddingPrice": 180
+    },
+    {
+      "playerId": 7,
+      "name": "Ravindra Jadeja",
+      "country": "Indian",
+      "image": "https://i.ibb.co.com/25frwL4/Ravenra-Jadeja.webp",
+      "playerType": "All-rounder",
+      "playingStyle" :"Left-Hand-Bat",
+      "biddingPrice": 155
+    },
+    {
+      "playerId": 8,
+      "name": "Najmul Hasan Shanto",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/Gk148hZ/Nazmul-Shanto.webp",
+      "playerType": "Bowler",
+      "playingStyle" :"Left-Hand-Bat",
+      "biddingPrice": 140
+    },
+    {
+      "playerId": 9,
+      "name": "Liton Das",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/bXDnCpJ/litton-das.jpg",
+      "playerType": "Batsman",
+      "playingStyle" :"Right-Hand-Bat",
+      "biddingPrice": 187
+    }
+  ]
